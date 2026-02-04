@@ -1,12 +1,3 @@
-<div align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=](https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D42A5F5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3D)👋+Hey+there,+I'm+Mohd+Yasir!;Flutter+Engineer;Security+Enthusiast" alt="Typing SVG" />
-
-<p align="center">
-<a href="[https://mohdxyasir.vercel.app/?utm_source=github](https://www.google.com/search?q=https://mohdxyasir.vercel.app/%3Futm_source%3Dgithub)">
-<img src="[https://img.shields.io/badge/](https://www.google.com/search?q=https://img.shields.io/badge/)🔥_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-</p>
-</div>
 
 ---
 
