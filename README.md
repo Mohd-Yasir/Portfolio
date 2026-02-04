@@ -1,77 +1,65 @@
-Here’s a **fresh, Gen Z-vibe README** you can copy/paste into your GitHub repo’s `README.md` — designed to attract eyeballs, show off your live portfolio, and drop your fun signature line exactly as requested 😎:
-
----
-
-```markdown
 <div align="center">
-  <h1>👋 Hey there, I’m Mohd Yasir!</h1>
-  <p>Flutter Engineer × Security Enthusiast</p>
-  <p>
-    <a href="https://mohdxyasir.vercel.app/?utm_source=chatgpt.com">
-      🔥 Live Portfolio
-    </a>
-  </p>
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=](https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D42A5F5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3D)👋+Hey+there,+I'm+Mohd+Yasir!;Flutter+Engineer;Security+Enthusiast" alt="Typing SVG" />
+
+<p align="center">
+<a href="[https://mohdxyasir.vercel.app/?utm_source=github](https://www.google.com/search?q=https://mohdxyasir.vercel.app/%3Futm_source%3Dgithub)">
+<img src="[https://img.shields.io/badge/](https://www.google.com/search?q=https://img.shields.io/badge/)🔥_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+</p>
 </div>
 
 ---
 
 ## 💡 About This Repo
 
-Welcome to the code behind my digital home — the place where **free will**, **free AI**, and **free time** teamed up and said:
+Welcome to the code behind my digital home—the place where **free will**, **free AI**, and **free time** teamed up and said:
 
 > **The best use of free will, free AI, and free time is the birth of a weird portfolio.** 😜
 
-This website is a snapshot of who I am, what I build, and how I boldy go where no portfolio has gone before (well… at least *my* portfolio 😅).
+This website is a snapshot of who I am, what I build, and how I boldly go where no portfolio has gone before.
 
 ---
 
 ## 🚀 Live Demo
 
-👉 Check it out here: https://mohdxyasir.vercel.app/?utm_source=chatgpt.com
+👉 **[mohdxyasir.vercel.app](https://www.google.com/search?q=https://mohdxyasir.vercel.app/%3Futm_source%3Dgithub)**
 
 Explore sections like:
-- ⭐ *About Me*
-- 🛠️ *Skills & Tech*
-- 🧪 *Projects I Built*
-- 📜 *Certifications & Achievements*
-- 📬 *Get in Touch*
+
+* ⭐ **About Me**
+* 🛠️ **Skills & Tech**
+* 🧪 **Projects I Built**
+* 📜 **Certifications & Achievements**
+* 📬 **Get in Touch**
 
 ---
 
 ## 🧠 Tech Stack
 
-This portfolio was built with *modern web vibes* using:
-
-- **Next.js** ⚡  
-- **React** 💻  
-- **Tailwind CSS / Custom Styles** 🎨  
-- **TypeScript** 💪  
-- **Vercel for hosting** 🚀
-
 ---
 
 ## 🤔 Why This Portfolio?
 
-Because boring is out and **authentic weirdness is in** 😎.  
-Plus, it’s a place where I get to show *my journey* — from Flutter experiments to security curiosities.
+Because boring is out and **authentic weirdness is in** 😎.
+
+It’s a place where I get to showcase my journey—from Flutter experiments to security curiosities and everything in between.
 
 ---
 
 ## 📁 Folder Structure
 
-```
-
-📦Portfolio
-┣ 📂public
-┣ 📂src
-┃ ┣ 📂components
-┃ ┣ 📂sections
-┃ ┗ 📂styles
+```text
+📦 Portfolio
+┣ 📂 public         # Assets & Favicons
+┣ 📂 src
+┃ ┣ 📂 components   # Reusable UI bits
+┃ ┣ 📂 sections     # Portfolio segments
+┃ ┗ 📂 styles       # Global CSS & Tailwind
 ┣ next.config.mjs
 ┣ package.json
 ┗ README.md
 
-````
+```
 
 ---
 
@@ -80,33 +68,30 @@ Plus, it’s a place where I get to show *my journey* — from Flutter experimen
 Want to poke around the code yourself? Clone & go:
 
 ```bash
+# Clone the repo
 git clone https://github.com/Mohd-Yasir/Portfolio.git
-cd Portfolio
-npm install
-npm run dev
-````
 
-Open 👉 `http://localhost:3000` and see the magic 🪄
+# Enter the directory
+cd Portfolio
+
+# Install dependencies
+npm install
+
+# Run the dev server
+npm run dev
+
+```
+
+Open 👉 **http://localhost:3000** to see the magic 🪄
 
 ---
 
 ## 📬 Contact Me
 
-Let’s collab, chat, or swap weird portfolio stories 😄:
+Let’s collab, chat, or swap weird portfolio stories:
 
-* 🔗 Portfolio: [https://mohdxyasir.vercel.app/?utm_source=chatgpt.com](https://mohdxyasir.vercel.app/?utm_source=chatgpt.com)
-* ✉️ Email: [mohdxyasir@example.com](mailto:mohdxyasir@example.com) (add real email if desired)
-* 💼 LinkedIn: [https://linkedin.com/in/mohdxyasir](https://linkedin.com/in/mohdxyasir)
+* **Portfolio:** [mohdxyasir.vercel.app](https://www.google.com/search?q=https://mohdxyasir.vercel.app)
+* **LinkedIn:** [linkedin.com/in/mohdxyasir](https://linkedin.com/in/mohdxyasir)
+* **Email:** [mohdxyasir@example.com](mailto:mohdxyasir@example.com)
 
----
-
-Thanks for dropping by 👀
-If you liked this, **star ⭐ the repo**!
-
-```
-
----
-
-If you want, I can generate a **more playful badge section**, ⭐ highlights, or even ASCII banners to make it pop even more 🚀
-::contentReference[oaicite:0]{index=0}
-```
+**Thanks for dropping by! If you like what you see, give this repo a ⭐!**
